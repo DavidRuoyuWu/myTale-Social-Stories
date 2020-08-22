@@ -1,0 +1,73 @@
+{
+  "_from": "extwee@^1.6.2",
+  "_id": "extwee@1.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-vIGP3s6va/iJT0qXt0VmQpnXMSjaS2N2bLe4ziC2Ts9lRsP4C7Chvq4LMETS9Ku8ztnF5Pi0fUtTP/Da079ilw==",
+  "_location": "/extwee",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "extwee@^1.6.2",
+    "name": "extwee",
+    "escapedName": "extwee",
+    "rawSpec": "^1.6.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.6.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/extwee/-/extwee-1.6.2.tgz",
+  "_shasum": "d66100dac1969f76b44803098d80389e01926268",
+  "_spec": "extwee@^1.6.2",
+  "_where": "D:\\projects\\Programming\\HTML\\story_personalization_system",
+  "author": {
+    "name": "Dan Cox"
+  },
+  "bugs": {
+    "url": "https://github.com/videlais/extwee/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "node-html-parser": "^1.2.3",
+    "shelljs": "^0.8.3",
+    "yargs": "^15.0.2"
+  },
+  "deprecated": false,
+  "description": "A Twee 3 compiler written in JS.",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsdoc": "^21.0.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "mocha": "^7.0.1",
+    "nyc": "^15.0.0"
+  },
+  "homepage": "https://github.com/videlais/extwee#readme",
+  "keywords": [
+    "twine",
+    "twee",
+    "parser",
+    "compiler"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "extwee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/videlais/extwee.git"
+  },
+  "scripts": {
+    "lint": "eslint src/**/*.js --fix",
+    "report-coverage": "nyc report --reporter=text-lcov > coverage.lcov",
+    "start": "node main.js",
+    "test": "nyc mocha test/test.js"
+  },
+  "version": "1.6.2"
+}

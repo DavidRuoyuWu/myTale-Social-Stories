@@ -1,0 +1,43 @@
+:: StoryTitle
+My Cat
+
+:: StoryData
+ {
+  "ifid": "8AC31F9F-45E2-4BC3-8636-C94920FC32DE",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+My Cat
+
+:: Start [ variables story start]{"position":"618,234","size":"100,100"}
+[[Click here to begin!]]
+
+(set: $catName to &quot;Mr. Whiskers&quot;)
+(set: $catGender to &quot;he&quot;)
+(set: $furColor to &quot;orange&quot;)
+(set: $catToy to &quot;a ball of yarn&quot;)
+
+
+:: Next Page [ story]{"position":"620,483","size":"100,100"}
+When $catName is sleepy, he likes to curl up in my lap.
+
+When $catGender wakes up from naps, $catGender likes to play! $catName&#39;s favorite toy is $catToy.
+
+:: Click here to begin! [ story]{"position":"620,352","size":"100,100"}
+I have a cat named $catName and $catGender has $furColor fur.
+
+[[Next Page]]
+
+:: StoryData{}
+{
+    "ifid": "8AC31F9F-45E2-4BC3-8636-C94920FC32DE",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

@@ -1,0 +1,57 @@
+:: StoryTitle
+Saying Thank You in School
+
+:: StoryData
+ {
+  "ifid": "C497F996-82E6-44B7-A994-3040468A40F7",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+Saying Thank You in School
+
+:: Saying Thank You in School [ story start]{"position":"411,190","size":"100,100"}
+We say &quot;thank you&quot; when someone does something for us.
+
+We can say &quot;thank you&quot; in many places, such as [[school.]]
+
+:: help [ story]{"position":"533,490","size":"100,100"}
+$name always helps $friendName with his homework. Every time $pronoun helps $friendName, $friendPronoun says &quot;thank you $name!&quot;
+
+Saying thank you is a polite thing to do when someone has done something for us. It is a way of saying that we are grateful for what they have done for us. 
+
+However, sometimes we [[forget!]]
+
+:: forget! [ story]{"position":"532,640","size":"100,100"}
+Sometimes, people forget to say &quot;thank you&quot;. 
+
+This can make them sound ungrateful or rude. If you forget to say &quot;thank you&quot;, you can always say sorry or say &quot;thank you&quot; when you remember!
+
+:: school. [ variables story]{"position":"555,302","size":"100,100"}
+(set: $name to &quot;Mike&quot;)
+(set: $age to &quot;8&quot;)
+(set: $pronoun to &quot;he&quot;)
+(set: $friendName to &quot;Tommy&quot;)
+(set: $friendPronoun to &quot;he&quot;)
+
+$name is $age years old, and $pronoun goes to school. 
+
+$name likes to pay attention in class so $pronoun can do his homework when $pronoun goes home.
+
+$name&#39;s friend, $friendName, is 8 years old, and $friendPronoun is in the same class.
+
+$friendName doesn&#39;t like to pay attention in class and has a hard time doing homework. $friendName needs Mike&#39;s [[help]].
+
+
+:: StoryData{}
+{
+    "ifid": "C497F996-82E6-44B7-A994-3040468A40F7",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

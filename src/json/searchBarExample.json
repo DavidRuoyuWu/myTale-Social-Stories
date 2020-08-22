@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Saying Thank You",
+    "body": "Saying thank you is very important because you are thanking someone",
+    "author": "Justin Wu",
+    "tags": ["Saying Something", "Thank You", "Manners", "Gratefulness"],
+    "rating": 5,
+    "views": 100,
+    "daysSinceAdded": 3
+  },
+  {
+    "id": 2,
+    "title": "Play Dates",
+    "body": "Play dates are a fun way to spend time with your friends",
+    "author": "Lynne Wang",
+    "tags": ["Friends", "Playing", "Socializing"],
+    "rating": 4,
+    "views": 37,
+    "daysSinceAdded": 5
+  },
+  {
+    "id": 3,
+    "title": "Saying Please",
+    "body": "Saying please is very important because you are asking something from someone",
+    "author": "Grace Tian",
+    "tags": ["Saying Something", "Please", "Manners"],
+    "rating": 3,
+    "views": 40,
+    "daysSinceAdded": 1
+  },
+  {
+    "id": 4,
+    "title": "Saying Sorry",
+    "body": "Saying sorry is very important because you are apologizing to someone",
+    "author": "Vatsal Varma",
+    "tags": ["Saying Something", "Sorry", "Apologizing", "Manners", "Behavior"],
+    "rating": 4.5,
+    "views": 7,
+    "daysSinceAdded": 0
+  },
+  {
+    "id": 5,
+    "title": "Going to the Doctor's Office",
+    "body": "Going to doctor's office is very important if you are sick.",
+    "author": "David Wu",
+    "tags": ["Going Somewhere", "Doctor", "Health", "Manners", "Behavior"],
+    "rating": 4.7,
+    "views": 1,
+    "daysSinceAdded": 8
+  }
+]

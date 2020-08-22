@@ -1,0 +1,63 @@
+:: StoryTitle
+Getting Dressed
+
+:: StoryData
+ {
+  "ifid": "8E7D0702-9A42-4AAA-807C-A31466565D72",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+Getting Dressed
+
+:: Getting Dressed [ variables story start]{"position":"620,350","size":"100,100"}
+(set: $myAdult to &quot;Mom&quot;)
+(set: $otherActivity to &quot;play games&quot;)
+(set: $activity1 to &quot;playing sports&quot;)
+(set: $activity2 to &quot;dancing&quot;)
+(set: $activity3 to &quot;going to a party&quot;)
+[[Getting Dressed-&gt;Page 1]]
+
+
+:: Page 1 [ story]{"position":"620,500","size":"100,100"}
+Getting dressed is putting on the right clothes so that I am [[ready for the next part of my day-&gt;Page 2]].
+
+:: Page 2 [ story]{"position":"620,650","size":"100,100"}
+At home $myAdult likes it when I [[get dressed quickly-&gt;Page 3]] without making a fuss.
+
+:: Page 3 [ story]{"position":"620,800","size":"100,100"}
+If I take too long to get dressed $myAdult may [[get cross with me-&gt;Page 4]].
+
+:: Page 4 [ story]{"position":"620,951","size":"100,100"}
+Sometimes I might not want to get dressed. I might want to $otherActivity. Feeling like this OK but it is still important to [[do the right thing-&gt;Page 5]].
+
+:: Page 5 [ story]{"position":"620,1100","size":"100,100"}
+If I don&#39;t get dressed $myAdult may [[get angry with me-&gt;Page 6]].
+
+:: Page 6 [ story]{"position":"620,1250","size":"100,100"}
+It is good to get dressed quickly when $myAdult asks me to. I may sometimes not want to but I still need to get dressed. If I do this [[I will be OK-&gt;Page 7]] and so will $myAdult.
+
+:: Page 7 [ story]{"position":"620,1400","size":"100,100"}
+We get dressed so that we have the right clothes on. What we wear depends on [[what we are going to do next-&gt;Page 8]].
+
+:: Page 8 [ story]{"position":"609,1559","size":"100,100"}
+People usually change clothes at least twice a day. Most people will have special clothes that they wear for sleeping in. In the morning people usually change into day clothes. Sometimes people change again for a special purpose like $activity1, $activity2, or $activity3. Sometimes people need to change clothes because their clothes have got dirty. There can be [[lots of reasons-&gt;Page 9]].
+
+:: Page 9 [ story]{"position":"620,1700","size":"100,100"}
+It is important to have the right clothes on. Sometimes there are rules about what people can wear in [[certain places-&gt;Page 10]]. Some adults have to wear uniforms for work and some children wear uniforms for school.
+
+:: Page 10 [ story]{"position":"620,1850","size":"100,100"}
+Getting dressed is just a thing that we do when needed each day. Choosing the right clothes is important. This depends on where we are going and what we are doing.
+
+:: StoryData{}
+{
+    "ifid": "8E7D0702-9A42-4AAA-807C-A31466565D72",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

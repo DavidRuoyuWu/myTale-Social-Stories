@@ -1,0 +1,39 @@
+:: StoryTitle
+Washing Hands
+
+:: StoryData
+ {
+  "ifid": "7D70FFE0-75BA-43F2-A26D-5322D6C6E9FA",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 5
+}
+
+:: StoryTitle{}
+Washing Hands
+
+:: Washing hands [ story]{"position":"618,398","size":"100,100"}
+Be sure to apply enough hand soap to cover your hands, interlace your fingers to clean in between them, and rinse your hands thoroughly. 
+You should also be careful [[after washing your hands]].
+
+:: after washing your hands [ story]{"position":"618,548","size":"100,100"}
+Dry your hands with a clean towel and use it to turn off the faucet.
+
+
+:: Hands [ story]{"position":"619,278","size":"100,100"}
+[[Washing hands]] is important when you are at $myLocation.
+
+:: Variables [ variables story start]{"position":"619,147","size":"100,100"}
+(set: $myLocation to &quot;home&quot;)
+[[Hands]]
+
+:: StoryData{}
+{
+    "ifid": "7D70FFE0-75BA-43F2-A26D-5322D6C6E9FA",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 5
+}
+

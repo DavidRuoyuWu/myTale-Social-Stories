@@ -1,0 +1,34 @@
+:: StoryTitle
+Story Template
+
+:: StoryData
+ {
+  "ifid": "9F0B3455-F6D5-4DC9-A917-BBE15632FAE4",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: Start [ start variables story theme_1]{"position":"405,174","size":"100,100"}
+(set: $variable1 to &quot;First Variable&quot;) 
+(set: $variable2 to &quot;Second Variable&quot;) 
+(set: $variable3 to &quot;Third Variable&quot;) 
+(set: $variable4 to &quot;Fourth Variable&quot;) 
+(set: $variable5 to &quot;Fifth Variable&quot;) 
+
+Hello there! To begin, find a story from our Search Page that you would like to customize and click "edit story"! Or, upload a pre-existing story from the "Upload" tab in the "Tools" sidebar. 
+
+See our Support page, which is linked below the "Tools" sidebar on the left, for help and more details on how to use the Story Editor.
+
+[[Next Page]]
+
+:: Next Page [ story theme_2]{"position":"405,321","size":"100,100"}
+Here are some examples of how variables will be shown in your story:
+$variable1
+$variable2
+$variable3
+$variable4
+$variable5
+
+You can always contact the developers through the contact page if you have any further questions!

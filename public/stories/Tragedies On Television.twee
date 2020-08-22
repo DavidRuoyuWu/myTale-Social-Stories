@@ -1,0 +1,74 @@
+:: StoryTitle
+Tragedies On Television
+
+:: StoryData
+ {
+  "ifid": "92629AD1-253F-4121-BABA-0C9261327A3F",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+Tragedies On Television
+
+:: Tragedies On Television [ variables story start]{"position":"620,350","size":"100,100"}
+(set: $myShow to &quot;Spongebob Squarepants&quot;)
+(set: $myAdult to &quot;my mom&quot;)
+(set: $myTown to &quot;Fairview&quot;)
+(set: $dinnerHour to &quot;6 o&#39;clock&quot;)
+(set: $neighborFamily to &quot;the Smiths&quot;)
+(set: $childName to &quot;Timmy&quot;)
+(set: $activity1 to &quot;eat breakfast&quot;)
+(set: $activity2 to &quot;play with friends&quot;)
+(set: $activity3 to &quot;go to the park after school&quot;)
+[[A tragedy is a horrible event.-&gt;Page 1]]
+
+
+:: Page 1 [ story]{"position":"620,500","size":"100,100"}
+A tragedy is a horrible event. I may learn about a tragedy when I am
+watching television. It’s helpful to understand what I see and hear. 
+
+When there is a tragedy, sometimes there is a news bulletin. This means
+that my favorite show, $myShow, will stop suddenly. [[A newscast will come on.-&gt;Page 2]]
+
+:: Page 2 [ story]{"position":"620,650","size":"100,100"}
+Many children find that it is easier to learn about a tragedy with an adult, like $myAdult. Adults have lived a long time. They have seen a few tragedies on television and can answer questions. Talking with adults helps many children feel less confused and more [[comfortable again-&gt;Page 3]].
+
+:: Page 3 [ story]{"position":"620,800","size":"100,100"}
+Reporters go to a tragedy to tell others what has happened. They take videos and photos to show on television. What I see on television may not be happening now. [[The tragedy may be over-&gt;Page 4]].
+
+:: Page 4 [ story]{"position":"620,950","size":"100,100"}
+Other times, a newscast may be “live”. When this happens what I see on television is happening at the same time someplace else. 
+
+Many newer televisions have a big, sharp picture screen. This makes it fun to watch my shows because it feels so realistic, like I am really there. 
+
+When a tragedy is on television, it’s helpful to remember that I am not there. I am home, in $myTown. [[Only the television is in my home-&gt;Page 5]], not the tragedy. 
+
+:: Page 5 [ story]{"position":"620,1100","size":"100,100"}
+Almost all of the time, a tragedy happens in another place. I am safe at home. This means that my day will probably be about the same as always. For example, if I usually have dinner at about $dinnerHour, and it’s almost $dinnerHour now, I’ll probably be having dinner soon. In fact, many other families, like $neighborFamily, will [[also be having dinner soon-&gt;Page 6]].
+
+:: Page 6 [ story]{"position":"620,1250","size":"100,100"}
+Even though a tragedy often happens far away, children and adults may feel worried or concerned. This is because they know that the survivors are feeling very sad. It’s safe and okay to feel uncomfortable for a while. Adults like $myAdult can [[help-&gt;Page 7]].
+
+:: Page 7 [ story]{"position":"620,1400","size":"100,100"}
+Very young children like $childName may be quite happy. They may not be sad or confused. This is okay. They are too young to [[understand-&gt;Page 8]] about tragedies. 
+
+:: Page 8 [ story]{"position":"620,1550","size":"100,100"}
+A very big tragedy will be on television for many days. A video may be shown many times. Or there may be new stories about the survivors. This can make it seem like a tragedy is happening over and over, [[even though it happened once-&gt;Page 9]].
+
+:: Page 9 [ story]{"position":"620,1700","size":"100,100"}
+As I grow, knowing about tragedies on television may make it easier for me to understand what I am seeing, and to know what to do. Because most tragedies happen far away, and not in $myTown, my day will likely be about the same. I will $activity1, $activity2, and $activity3 like usual.
+
+It’s safe to feel confused, sad, or concerned, and to ask questions. Many people feel that way about tragedies. There may be things we can all do to help.
+
+:: StoryData{}
+{
+    "ifid": "92629AD1-253F-4121-BABA-0C9261327A3F",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

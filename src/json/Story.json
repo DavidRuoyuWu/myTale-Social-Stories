@@ -1,0 +1,25 @@
+{
+    "title": "TEST STORY",
+    
+    "tags":["school"],
+
+    "paragraphs":["Hi my name is $myName!", "I'm a student at $mySchool."],
+
+    "variables":[
+        {
+            "varName": "myName",
+            "value": "Grace",
+            "type": "TXT",
+            "data": "",
+            "data_loc": ""
+        },
+
+        {
+            "varName": "mySchool",
+            "value": "Duke",
+            "type": "TXT",
+            "data": "",
+            "data_loc": ""
+        }
+    ]
+}

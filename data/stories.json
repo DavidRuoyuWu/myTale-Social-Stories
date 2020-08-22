@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Doing Homework",
+    "author": "Justin Wu",
+    "synopsis": "This story is about how a child can go about doing homework in school. It shows how one can act when asking for help, and how one can act when helping others.",
+    "tags": ["School", "Homework", "Friends", "Gratefulness", "Please", "Thanks", "Responsibility"],
+    "views": 100,
+    "dateNow": 1592957207463,
+    "dateAdded": "2/22/2020",
+    "text":":: StoryTitle\nDoing Homework\n\n:: StoryData\n {\n  \"ifid\": \"9BA95F6B-051A-41B5-9D4A-CB0327DC5392\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Doing Homework [ variables story start theme_1]{\"position\":\"412,189\",\"size\":\"100,100\"}\nMy teacher&#39;s name is $myTeacher. $teacherPronoun gives us homework to do. The first thing I always do is write my name, $myName, on it, so that my teacher knows that it&#39;s mine. \n[[Needing Help]]\n(set: $myName to &quot;Justin&quot;)\n(set: $myTeacher to &quot;Robert&quot;)\n(set: $teacherPronoun to &quot;He&quot;)\n(set: $myFriend to &quot;Grace&quot;)\n(set: $friendPronouns to &quot;She&quot;)\n\n\n:: Needing Help [ story theme_2]{\"position\":\"412,340\",\"size\":\"100,100\"}\nSometimes, the homework is too hard, so I have to ask my friend $myFriend to help me. $friendPronouns always helps me, which is why I remember to always say please when I&#39;m asking her for help, and thank you after she has helped me. \n[[Helping Others]]\n\n:: Helping Others [ story theme_3]{\"position\":\"413,489\",\"size\":\"100,100\"}\nOther times, I understand the homework very well, and my friends ask me for help. I try my best to help them, especially when they say please. \nAfter I help them, I feel very happy, especially if they say thank you.\n\n",
+    "creator": "justin.wu333@gmail.com",
+    "storyKey": "KVDAzEsz1Eus5ZkPECPA"
+  },
+  {
+    "title": "Getting Dressed",
+    "author": "Lynne Wang",
+    "synopsis": "Getting Dressed shows what difficulties you can encounter while getting dressed, and how to deal with them. It also shows the importance of getting dressed and changing clothes.",
+    "tags": ["Responsibility", "Clothes", "Dressing", "Home"],
+    "views": 37,
+    "dateNow": 1592957207465,
+    "dateAdded": "3/22/2020",
+    "text":":: StoryTitle\nGetting Dressed\n\n:: StoryData\n {\n  \"ifid\": \"8E7D0702-9A42-4AAA-807C-A31466565D72\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Getting Dressed [ variables story start theme_1]{\"position\":\"620,350\",\"size\":\"100,100\"}\n[[Getting Dressed-&gt;Page 1]]\n(set: $myAdult to &quot;Mom&quot;)\n(set: $otherActivity to &quot;play games&quot;)\n(set: $activity1 to &quot;playing sports&quot;)\n(set: $activity2 to &quot;dancing&quot;)\n(set: $activity3 to &quot;going to a party&quot;)\n\n\n:: Page 1 [ story theme_2]{\"position\":\"620,500\",\"size\":\"100,100\"}\nGetting dressed is putting on the right clothes so that I am [[ready for the next part of my day-&gt;Page 2]].\n\n:: Page 2 [ story theme_3]{\"position\":\"620,650\",\"size\":\"100,100\"}\nAt home $myAdult likes it when I [[get dressed quickly-&gt;Page 3]] without making a fuss.\n\n:: Page 3 [ story theme_4]{\"position\":\"620,800\",\"size\":\"100,100\"}\nIf I take too long to get dressed $myAdult may [[get cross with me-&gt;Page 4]].\n\n:: Page 4 [ story theme_5]{\"position\":\"620,951\",\"size\":\"100,100\"}\nSometimes I might not want to get dressed. I might want to $otherActivity. Feeling like this OK but it is still important to [[do the right thing-&gt;Page 5]].\n\n:: Page 5 [ story theme_6]{\"position\":\"620,1100\",\"size\":\"100,100\"}\nIf I don&#39;t get dressed $myAdult may [[get angry with me-&gt;Page 6]].\n\n:: Page 6 [ story theme_7]{\"position\":\"620,1250\",\"size\":\"100,100\"}\nIt is good to get dressed quickly when $myAdult asks me to. I may sometimes not want to but I still need to get dressed. If I do this [[I will be OK-&gt;Page 7]] and so will $myAdult.\n\n:: Page 7 [ story theme_8]{\"position\":\"620,1400\",\"size\":\"100,100\"}\nWe get dressed so that we have the right clothes on. What we wear depends on [[what we are going to do next-&gt;Page 8]].\n\n:: Page 8 [ story theme_9]{\"position\":\"609,1559\",\"size\":\"100,100\"}\nPeople usually change clothes at least twice a day. Most people will have special clothes that they wear for sleeping in. In the morning people usually change into day clothes. Sometimes people change again for a special purpose like $activity1, $activity2, or $activity3. Sometimes people need to change clothes because their clothes have got dirty. There can be [[lots of reasons-&gt;Page 9]].\n\n:: Page 9 [ story theme_10]{\"position\":\"620,1700\",\"size\":\"100,100\"}\nIt is important to have the right clothes on. Sometimes there are rules about what people can wear in [[certain places-&gt;Page 10]]. Some adults have to wear uniforms for work and some children wear uniforms for school.\n\n:: Page 10 [ story theme_11]{\"position\":\"620,1850\",\"size\":\"100,100\"}\nGetting dressed is just a thing that we do when needed each day. Choosing the right clothes is important. This depends on where we are going and what we are doing.\n\n",
+    "creator": "justin.wu333@gmail.com",
+    "storyKey": "ZDlU2G7OmVojvF8Arnor"
+  },
+  {
+    "title": "My Cat",
+    "author": "Grace Tian",
+    "synopsis": "My Cat presents the perspective of a child who owns a pet cat. From napping to playing with yarn, this story is an example of what owning a cat looks like.",
+    "tags": ["Pets", "Behavior", "Responsibility", "Home"],
+    "views": 40,
+    "dateNow": 1592957207467,
+    "dateAdded": "4/22/2020",
+    "text":":: StoryTitle\nMy Cat\n\n:: StoryData\n {\n  \"ifid\": \"8AC31F9F-45E2-4BC3-8636-C94920FC32DE\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Start [ variables story start theme_1]{\"position\":\"618,234\",\"size\":\"100,100\"}\n[[Click here to begin!]]\n(set: $catName to &quot;Mr. Whiskers&quot;)\n(set: $catGender to &quot;he&quot;)\n(set: $furColor to &quot;orange&quot;)\n(set: $catToy to &quot;a ball of yarn&quot;)\n\n\n:: Next Page [ story theme_2]{\"position\":\"620,483\",\"size\":\"100,100\"}\nWhen $catName is sleepy, he likes to curl up in my lap.\n\nWhen $catGender wakes up from naps, $catGender likes to play! $catName&#39;s favorite toy is $catToy.\n\n:: Click here to begin! [ story theme_3]{\"position\":\"620,352\",\"size\":\"100,100\"}\nI have a cat named $catName and $catGender has $furColor fur.\n\n[[Next Page]]\n\n",
+    "creator": "justin.wu333@gmail.com",
+    "storyKey": "pOvwYQR0YLj7Or7q1tol"
+  },
+  {
+    "title": "Playground",
+    "author": "Vatsal Varma",
+    "synopsis": "Playgrounds can be worrisome for parents, especially if their kid has never been to one. This story helps familiarize the concept of playgrounds, and how one should behave there.",
+    "tags": ["Friends", "Playing", "Socializing", "Manners", "Behavior"],
+    "views": 7,
+    "dateNow": 1592957207469,
+    "dateAdded": "05/22/2020",
+    "text":":: StoryTitle\nPlayground\n\n:: StoryData\n {\n  \"ifid\": \"5CAE869A-39C6-4E0E-965B-7F78C022CFE9\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Variables [ variables story start theme_1]{\"position\":\"618,298\",\"size\":\"100,100\"}\n[[Click here to begin!]]\n(set: $myName to &quot;Jessica&quot;)\n(set: $myAge to &quot;seven&quot;)\n(set: $playgroundActivity to &quot;play on the swings&quot;)\n\n\n:: Click here to begin! [ story theme_2]{\"position\":\"620,428\",\"size\":\"100,100\"}\nMy name is $myName. I&#39;m $myAge years old and I love playing on [[playgrounds]]!\n\n:: playgrounds [ story theme_3]{\"position\":\"620,562\",\"size\":\"100,100\"}\nMy favorite thing to do at the playground is $playgroundActivity!\n\nSometimes, being at the playground is dangerous, so I always have to be careful not to hurt myself or other people on accident.\n\n",
+    "creator": "justin.wu333@gmail.com",
+    "storyKey": "7gl7RT7ZWvDQfvH0MFQ2"
+  },
+  {
+    "title": "Saying Thank You In School",
+    "author": "David Wu",
+    "synopsis": "This story tells the story of Mike, an 8 year old who goes to school. Accompany Mike to school to see how he interacts with his friends, showing his gratitude and kindness along the way!",
+    "tags": ["Saying Something", "Thanks", "Gratefulness", "Manners", "Behavior", "School"],
+    "views": 1,
+    "dateNow": 1592957207471,
+    "dateAdded": "06/22/2020",
+    "text":":: StoryTitle\nSaying Thank You in School\n\n:: StoryData\n {\n  \"ifid\": \"C497F996-82E6-44B7-A994-3040468A40F7\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Saying Thank You in School [ story start theme_1]{\"position\":\"411,190\",\"size\":\"100,100\"}\nWe say &quot;thank you&quot; when someone does something for us.\n\nWe can say &quot;thank you&quot; in many places, such as [[school.]]\n\n:: help [ story theme_2]{\"position\":\"533,490\",\"size\":\"100,100\"}\n$name always helps $friendName with his homework. Every time $pronoun helps $friendName, $friendPronoun says &quot;thank you $name!&quot;\n\nSaying thank you is a polite thing to do when someone has done something for us. It is a way of saying that we are grateful for what they have done for us. \n\nHowever, sometimes we [[forget!]]\n\n:: forget! [ story theme_3]{\"position\":\"532,640\",\"size\":\"100,100\"}\nSometimes, people forget to say &quot;thank you&quot;. \n\nThis can make them sound ungrateful or rude. If you forget to say &quot;thank you&quot;, you can always say sorry or say &quot;thank you&quot; when you remember!\n\n:: school. [ variables story theme_4]{\"position\":\"555,302\",\"size\":\"100,100\"}\n$name is $age years old, and $pronoun goes to school. \n\n$name likes to pay attention in class so $pronoun can do his homework when $pronoun goes home.\n\n$name&#39;s friend, $friendName, is 8 years old, and $friendPronoun is in the same class.\n\n$friendName doesn&#39;t like to pay attention in class and has a hard time doing homework. $friendName needs Mike&#39;s [[help]].\n(set: $name to &quot;Mike&quot;)\n(set: $age to &quot;8&quot;)\n(set: $pronoun to &quot;he&quot;)\n(set: $friendName to &quot;Tommy&quot;)\n(set: $friendPronoun to &quot;he&quot;)\n\n\n",
+    "creator": "justin.wu333@gmail.com",
+    "storyKey": "317rfHV8LnAN1O1G8sLA"
+  },
+  {
+    "title": "School",
+    "author": "David Wu",
+    "synopsis": "How should I get ready for school? How should I act while I'm on the bus? What should I do in school? This story contains answers for all of these questions, and more!",
+    "tags": ["School", "Friends", "Behavior", "Manners"],
+    "views": 7,
+    "dateNow": 1592957207469,
+    "dateAdded": "05/22/2020",
+    "text":":: StoryTitle\nSchool\n\n:: StoryData\n {\n  \"ifid\": \"D95FB781-8A9F-4AC0-99BB-FC0A411BB636\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 7\n}\n\n:: Home [ story theme_1]{\"position\":\"901,100\",\"size\":\"100,100\"}\nHi! My name is $myName and [[I love school]]!\n\n&lt;img src=&quot;https://clipartart.com/images/achool-clipart-9.jpg&quot; alt=&quot;School&quot;&gt;\n\n:: leave for school [ story theme_2]{\"position\":\"1001,501\",\"size\":\"100,100\"}\nWhen I get on the bus, I always say &quot;Hi, $myFriend!&quot; and she replies with &quot;Hi, $myName!&quot; I know I should always do this because it&#39;s polite and because I should never ignore people even if I want to.\n\nEven though the bus is big and loud and sometimes a little scary, sitting next to $myFriend makes me feel safe. I also know that our bus driver will make sure that we get to [[school]] in no time!\n\n:: I love school [ story theme_3]{\"position\":\"1040,323\",\"size\":\"100,100\"}\nBefore leaving for school, I need to prepare. After I wake up, I brush my teeth and eat my favorite breakfast, $myBreakfast. Then, I put my books and pencils into my $myColor backpack. Now I&#39;m ready to [[leave for school]]!\n\n&lt;img src=&quot;https://www.pngitem.com/pimgs/m/180-1805483_school-materials-clip-art-hd-png-download.png&quot; alt=&quot;School Materials&quot;&gt;\n\n:: school [ story theme_4]{\"position\":\"800,501\",\"size\":\"100,100\"}\nI enjoy all the activities at school. They are a lot of fun. I also enjoy spending time with $myFriend.\n\nEven though I am having fun, I know that there are still [[rules]] I have to follow.\n\n:: rules [ story theme_5]{\"position\":\"500,501\",\"size\":\"100,100\"}\nIt&#39;s hard to remember all the rules sometimes, but they are important because they keep me and my classmates safe and make sure that everyone is having fun and learning!\n\nBack to [[Start]] (select this option if you would like to adjust your inputs)\n\nBack to [[Home]] (select this option if you would like to start the story over!)\n\n:: Start [ variables story start theme_6]{\"position\":\"480,100\",\"size\":\"100,100\"}\nHello there! This is a social story about school. Before we begin, please go to [[this page]] to enter the following information so you can personalize this social story!\n(set: $myName to &quot;Emma&quot;)\n(set: $myBreakfast to &quot;eggs and toast&quot;)\n(set: $myColor to &quot;blue&quot;)\n(set: $myFriend to &quot;Olivia&quot;)\n\n\n:: this page [ story theme_7]{\"position\":\"698,98\",\"size\":\"100,100\"}\nAwesome! Click on the &quot;Home&quot; button below to begin! \n\n[[Home]]\n\n",
+    "creator": "wu.justin2000@gmail.com",
+    "storyKey": "W07fYfaC8rDYlSz2yjdy"
+  },
+  {
+    "title": "Tragedies On Television",
+    "author": "Grace Wu",
+    "synopsis": "Tragedy can be something that children may be exposed to very early on, and it's important to know how to deal with tragedy. This story shows how a tragedy can usually happen, and a good way to deal with it.",
+    "tags": ["Television", "Tragedy", "Home"],
+    "views": 7,
+    "dateNow": 1592957207469,
+    "dateAdded": "05/22/2020",
+    "text":":: StoryTitle\nTragedies On Television\n\n:: StoryData\n {\n  \"ifid\": \"92629AD1-253F-4121-BABA-0C9261327A3F\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Tragedies On Television [ variables story start theme_1]{\"position\":\"620,350\",\"size\":\"100,100\"}\n[[A tragedy is a horrible event.-&gt;Page 1]]\n(set: $myShow to &quot;Spongebob Squarepants&quot;)\n(set: $myAdult to &quot;my mom&quot;)\n(set: $myTown to &quot;Fairview&quot;)\n(set: $dinnerHour to &quot;6 o&#39;clock&quot;)\n(set: $neighborFamily to &quot;the Smiths&quot;)\n(set: $childName to &quot;Timmy&quot;)\n(set: $activity1 to &quot;eat breakfast&quot;)\n(set: $activity2 to &quot;play with friends&quot;)\n(set: $activity3 to &quot;go to the park after school&quot;)\n\n\n:: Page 1 [ story theme_2]{\"position\":\"620,500\",\"size\":\"100,100\"}\nA tragedy is a horrible event. I may learn about a tragedy when I am\nwatching television. It’s helpful to understand what I see and hear. \n\nWhen there is a tragedy, sometimes there is a news bulletin. This means\nthat my favorite show, $myShow, will stop suddenly. [[A newscast will come on.-&gt;Page 2]]\n\n:: Page 2 [ story theme_3]{\"position\":\"620,650\",\"size\":\"100,100\"}\nMany children find that it is easier to learn about a tragedy with an adult, like $myAdult. Adults have lived a long time. They have seen a few tragedies on television and can answer questions. Talking with adults helps many children feel less confused and more [[comfortable again-&gt;Page 3]].\n\n:: Page 3 [ story theme_4]{\"position\":\"620,800\",\"size\":\"100,100\"}\nReporters go to a tragedy to tell others what has happened. They take videos and photos to show on television. What I see on television may not be happening now. [[The tragedy may be over-&gt;Page 4]].\n\n:: Page 4 [ story theme_5]{\"position\":\"620,950\",\"size\":\"100,100\"}\nOther times, a newscast may be “live”. When this happens what I see on television is happening at the same time someplace else. \n\nMany newer televisions have a big, sharp picture screen. This makes it fun to watch my shows because it feels so realistic, like I am really there. \n\nWhen a tragedy is on television, it’s helpful to remember that I am not there. I am home, in $myTown. [[Only the television is in my home-&gt;Page 5]], not the tragedy.\n\n:: Page 5 [ story theme_6]{\"position\":\"620,1100\",\"size\":\"100,100\"}\nAlmost all of the time, a tragedy happens in another place. I am safe at home. This means that my day will probably be about the same as always. For example, if I usually have dinner at about $dinnerHour, and it’s almost $dinnerHour now, I’ll probably be having dinner soon. In fact, many other families, like $neighborFamily, will [[also be having dinner soon-&gt;Page 6]].\n\n:: Page 6 [ story theme_7]{\"position\":\"620,1250\",\"size\":\"100,100\"}\nEven though a tragedy often happens far away, children and adults may feel worried or concerned. This is because they know that the survivors are feeling very sad. It’s safe and okay to feel uncomfortable for a while. Adults like $myAdult can [[help-&gt;Page 7]].\n\n:: Page 7 [ story theme_8]{\"position\":\"620,1400\",\"size\":\"100,100\"}\nVery young children like $childName may be quite happy. They may not be sad or confused. This is okay. They are too young to [[understand-&gt;Page 8]] about tragedies.\n\n:: Page 8 [ story theme_9]{\"position\":\"620,1550\",\"size\":\"100,100\"}\nA very big tragedy will be on television for many days. A video may be shown many times. Or there may be new stories about the survivors. This can make it seem like a tragedy is happening over and over, [[even though it happened once-&gt;Page 9]].\n\n:: Page 9 [ story theme_10]{\"position\":\"620,1700\",\"size\":\"100,100\"}\nAs I grow, knowing about tragedies on television may make it easier for me to understand what I am seeing, and to know what to do. Because most tragedies happen far away, and not in $myTown, my day will likely be about the same. I will $activity1, $activity2, and $activity3 like usual.\n\nIt’s safe to feel confused, sad, or concerned, and to ask questions. Many people feel that way about tragedies. There may be things we can all do to help.\n\n",
+    "creator": "wu.justin2000@gmail.com",
+    "storyKey": "JEXfQR56Qc6hBJ9NGiXi"
+    },
+  {
+    "title": "Variable Tester",
+    "author": "Vatsal Varma",
+    "synopsis": "This story is an example of the appropriate way to test variables.",
+    "tags": ["Variables", "Testing"],
+    "views": 7,
+    "dateNow": 1592957207469,
+    "dateAdded": "05/22/2020",
+    "text":":: StoryTitle\nVariable Tester\n\n:: StoryData\n {\n  \"ifid\": \"A48154DC-48F4-4E86-BA89-7E6D9F180A55\",\n  \"format\": \"Harlowe\",\n  \"formatVersion\": \"3.1.0\",\n  \"zoom\": \"1\",\n  \"start\": 2\n}\n\n:: Start [ variables story start theme_1]{\"position\":\"405,172\",\"size\":\"100,100\"}\n[[Variable Use]]\n(set: $var1 to &quot;NAME&quot;)\n(set: $var2 to &quot;WORD&quot;)\n(set: $var3 to &quot;HIGH&quot;)\n(set: $var4 to &quot;LOUD&quot;)\n(set: $var5 to &quot;NUMB&quot;)\n(set: $var6 to &quot;WORK&quot;)\n(set: $var7 to &quot;KNOW&quot;)\n(set: $var8 to &quot;NICE&quot;)\n\n\n:: Variable Use [ story theme_2]{\"position\":\"560,172\",\"size\":\"100,100\"}\n$var1\n$var2\n$var3\n$var4\n$var5\n$var6\n$var7\n\n",
+    "creator": "wu.justin2000@gmail.com",
+    "storyKey": "6rplFLRUJcxKqF8adUMX"
+  }
+]

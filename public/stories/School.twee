@@ -1,0 +1,65 @@
+:: StoryTitle
+School
+
+:: StoryData
+ {
+  "ifid": "D95FB781-8A9F-4AC0-99BB-FC0A411BB636",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 7
+}
+
+:: StoryTitle{}
+School
+
+:: Home [ story]{"position":"901,100","size":"100,100"}
+Hi! My name is $myName and [[I love school]]!
+
+&lt;img src=&quot;https://clipartart.com/images/achool-clipart-9.jpg&quot; alt=&quot;School&quot;&gt;
+
+:: leave for school [ story]{"position":"1001,501","size":"100,100"}
+When I get on the bus, I always say &quot;Hi, $myFriend!&quot; and she replies with &quot;Hi, $myName!&quot; I know I should always do this because it&#39;s polite and because I should never ignore people even if I want to.
+
+Even though the bus is big and loud and sometimes a little scary, sitting next to $myFriend makes me feel safe. I also know that our bus driver will make sure that we get to [[school]] in no time!
+
+:: I love school [ story]{"position":"1040,323","size":"100,100"}
+Before leaving for school, I need to prepare. After I wake up, I brush my teeth and eat my favorite breakfast, $myBreakfast. Then, I put my books and pencils into my $myColor backpack. Now I&#39;m ready to [[leave for school]]!
+
+&lt;img src=&quot;https://www.pngitem.com/pimgs/m/180-1805483_school-materials-clip-art-hd-png-download.png&quot; alt=&quot;School Materials&quot;&gt;
+
+:: school [ story]{"position":"800,501","size":"100,100"}
+I enjoy all the activities at school. They are a lot of fun. I also enjoy spending time with $myFriend.
+
+Even though I am having fun, I know that there are still [[rules]] I have to follow.
+
+:: rules [ story]{"position":"500,501","size":"100,100"}
+It&#39;s hard to remember all the rules sometimes, but they are important because they keep me and my classmates safe and make sure that everyone is having fun and learning!
+
+Back to [[Start]] (select this option if you would like to adjust your inputs)
+
+Back to [[Home]] (select this option if you would like to start the story over!)
+
+:: Start [ variables story start]{"position":"480,100","size":"100,100"}
+Hello there! This is a social story about school. Before we begin, please go to [[this page]] to enter the following information so you can personalize this social story!
+
+(set: $myName to &quot;Emma&quot;)
+(set: $myBreakfast to &quot;eggs and toast&quot;)
+(set: $myColor to &quot;blue&quot;)
+(set: $myFriend to &quot;Olivia&quot;)
+
+
+:: this page [ story]{"position":"698,98","size":"100,100"}
+Awesome! Click on the &quot;Home&quot; button below to begin! 
+
+[[Home]]
+
+:: StoryData{}
+{
+    "ifid": "D95FB781-8A9F-4AC0-99BB-FC0A411BB636",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 7
+}
+

@@ -1,0 +1,40 @@
+:: StoryTitle
+Playground
+
+:: StoryData
+ {
+  "ifid": "5CAE869A-39C6-4E0E-965B-7F78C022CFE9",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+Playground
+
+:: Variables [ variables story start]{"position":"618,298","size":"100,100"}
+[[Click here to begin!]]
+
+(set: $myName to &quot;Jessica&quot;)
+(set: $myAge to &quot;seven&quot;)
+(set: $playgroundActivity to &quot;play on the swings&quot;)
+
+
+:: Click here to begin! [ story]{"position":"620,428","size":"100,100"}
+My name is $myName. I&#39;m $myAge years old and I love playing on [[playgrounds]]!
+
+:: playgrounds [ story]{"position":"620,562","size":"100,100"}
+My favorite thing to do at the playground is $playgroundActivity!
+
+Sometimes, being at the playground is dangerous, so I always have to be careful not to hurt myself or other people on accident.
+
+:: StoryData{}
+{
+    "ifid": "5CAE869A-39C6-4E0E-965B-7F78C022CFE9",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

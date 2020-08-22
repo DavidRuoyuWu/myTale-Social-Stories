@@ -1,0 +1,42 @@
+:: StoryTitle
+Doing Homework
+
+:: StoryData
+ {
+  "ifid": "9BA95F6B-051A-41B5-9D4A-CB0327DC5392",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 2
+}
+
+:: StoryTitle{}
+Doing Homework
+
+:: Doing Homework [ variables story start]{"position":"412,189","size":"100,100"}
+(set: $myName to &quot;Justin&quot;)
+(set: $myTeacher to &quot;Robert&quot;)
+(set: $teacherPronoun to &quot;He&quot;)
+(set: $myFriend to &quot;Grace&quot;)
+(set: $friendPronouns to &quot;She&quot;)
+My teacher&#39;s name is $myTeacher. $teacherPronoun gives us homework to do. The first thing I always do is write my name, $myName, on it, so that my teacher knows that it&#39;s mine. 
+[[Needing Help]]
+
+
+:: Needing Help [ story]{"position":"412,340","size":"100,100"}
+Sometimes, the homework is too hard, so I have to ask my friend $myFriend to help me. $friendPronouns always helps me, which is why I remember to always say please when I&#39;m asking her for help, and thank you after she has helped me. 
+[[Helping Others]]
+
+:: Helping Others [ story]{"position":"413,489","size":"100,100"}
+Other times, I understand the homework very well, and my friends ask me for help. I try my best to help them, especially when they say please. 
+After I help them, I feel very happy, especially if they say thank you.
+
+:: StoryData{}
+{
+    "ifid": "9BA95F6B-051A-41B5-9D4A-CB0327DC5392",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 2
+}
+

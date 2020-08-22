@@ -1,0 +1,58 @@
+:: StoryTitle
+Get Ready for School
+
+:: StoryData
+ {
+  "ifid": "8F8758EA-F52D-4DA5-8704-106619AD0EEC",
+  "format": "Harlowe",
+  "formatVersion": "3.1.0",
+  "zoom": "1",
+  "start": 12
+}
+
+:: StoryTitle{}
+Get Ready for School
+
+:: the night before [ story]{"position":"469,399","size":"100,100"}
+In order to have more time in the morning, you can prepare in advance by [[picking out your clothes]], [[taking a shower]], and [[packing your backpack]].
+
+:: in the morning [ story]{"position":"619,399","size":"100,100"}
+[[Wake up early]] and [[eat a good breakfast]].
+
+:: after school [ story]{"position":"769,398","size":"100,100"}
+It is important to [[decompress]] and [[do your homework]] after school.
+
+:: picking out your clothes [ story]{"position":"319,234","size":"100,100"}
+Choose what you will wear for tomorrow. Remember to put on layers if it is cold out. If you wear a uniform to school, make sure you know where it is.
+
+:: taking a shower [ story]{"position":"324,415","size":"100,100"}
+Showering is part of good hygiene. By showering at night, you can wash away any sweat or dirt accumulated during the day.
+
+:: packing your backpack [ story]{"position":"312,582","size":"100,100"}
+Double check that all of your books and homework are in your backpack!
+
+:: Wake up early [ story]{"position":"508,553","size":"100,100"}
+This is often more easily said than done. Try your best to get up when your alarm first goes off. 
+
+:: eat a good breakfast [ story]{"position":"736,556","size":"100,100"}
+Eating breakfast helps you wake up and feeds your brain with energy for your day of school.
+
+:: decompress [ story]{"position":"895,272","size":"100,100"}
+Do something that helps you unwind. You can take a walk, play with a pet, listen to music or watch some TV.
+
+:: do your homework [ story]{"position":"892,491","size":"100,100"}
+Doing your homework together with friends might help you focus. Also, study for any upcoming tests or quizzes.
+
+:: Start [ start variables story]{"position":"618,220","size":"100,100"}
+(set: $myName to &quot;David&quot;)
+Getting ready for school can be difficult, but it will be much easier if you follow a good routine, $myName! Here are some of the things you can do [[the night before]], [[in the morning]], and [[after school]].
+
+:: StoryData{}
+{
+    "ifid": "8F8758EA-F52D-4DA5-8704-106619AD0EEC",
+    "format": "Harlowe",
+    "formatVersion": "3.1.0",
+    "zoom": "1",
+    "start": 12
+}
+
